@@ -1,5 +1,10 @@
 # Zero-Shot-Style-Transfer
 
+# Requirements
+- Python 2.7  
+- Tensorflow 1.1
+- nltk
+
 This repository contains code and data associated with XXXXXXXXX paper.
 
 To run the experiment described below you will need to first install Tensorflow 1.1(https://pypi.python.org/pypi/tensorflow/1.1.0), MOSES (http://www.statmt.org/moses/index.php?n=Main.HomePage), and seq2seq (https://github.com/google/seq2seq).  We also use subword-nmt (https://github.com/rsennrich/subword-nmt), but the code is replicated within this repository.
